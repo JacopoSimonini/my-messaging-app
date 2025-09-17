@@ -3,3 +3,4 @@ flask_sqlalchemy
 flask_cors
 gunicorn
 psycopg2-binary
+apscheduler
